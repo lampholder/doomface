@@ -1,8 +1,8 @@
 # doomface
 
-GET /<special>/<health>
+`GET /<special>/<health>`
 
-GET /<health>
+`GET /<health>`
 
 special = (evil|kill|ouch|god|left|right)
 health = 0..100
