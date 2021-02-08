@@ -1,4 +1,4 @@
-# doomface
+# https://doomfac.es
 
 `GET /<special>/<health>`
 
